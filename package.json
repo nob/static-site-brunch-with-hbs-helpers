@@ -1,6 +1,6 @@
 {
   "name": "static-site-brunch-with-hbs-helpers",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Static site support for Brunch with Handlebars helpers",
   "main": "index.js",
   "dependencies": {
