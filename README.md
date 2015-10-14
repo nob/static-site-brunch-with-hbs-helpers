@@ -1,7 +1,9 @@
 # static-site-brunch (with Handlebars helpers)
 
 Static site support for [Brunch](http://brunch.io/).
+
 This is a fork of [static-site-brunch](https://www.npmjs.com/package/static-site-brunch)
+
 Only {#if_eq} helper is added, currently.
 
 ## Install
