@@ -1,0 +1,28 @@
+{
+  "name": "static-site-brunch-with-hbs-helpers",
+  "version": "0.0.1",
+  "description": "Static site support for Brunch with Handlebars helpers",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^1.4.2",
+    "glob": "^5.0.14",
+    "gray-matter": "^2.0.1",
+    "handlebars": "^4.0.0",
+    "mkdirp": "^0.5.1",
+    "neo-async": "^1.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devinus/static-site-brunch.git"
+  },
+  "keywords": [
+    "static",
+    "brunch"
+  ],
+  "author": {
+    "name": "N. Yanbe",
+    "email": "yanbe.n@jointanet.com"
+  },
+  "license": "C0-1.0",
+  "readme": "ERROR: No README data found!"
+}
