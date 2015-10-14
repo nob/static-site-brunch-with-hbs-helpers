@@ -1,6 +1,6 @@
 {
   "name": "static-site-brunch-with-hbs-helpers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Static site support for Brunch with Handlebars helpers",
   "main": "index.js",
   "dependencies": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devinus/static-site-brunch.git"
+    "url": "git+https://github.com/nob/static-site-brunch-with-hbs-helpers.git"
   },
   "keywords": [
     "static",
